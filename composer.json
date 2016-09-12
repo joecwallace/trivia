@@ -1,0 +1,12 @@
+{
+    "name": "joecwallace/trivia",
+    "autoload": {
+        "psr-0": {
+            "Trivia\\Tests\\": "tests/",
+            "Trivia\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^5.5"
+    }
+}
